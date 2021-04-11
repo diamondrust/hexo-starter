@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: res
+title: ke
 subtitle: ''
 description: ''
 keywords:
-author: JDoe
+author: dante
 language: en
 timezone: ''
 
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: tree
+theme: tkl
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
